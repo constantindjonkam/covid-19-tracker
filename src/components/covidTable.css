@@ -1,0 +1,13 @@
+.generalInfo {
+  background-color: rgb(51, 51, 61);
+  color: white;
+  text-align: center;
+  max-width: 400px;
+  padding: 20px;
+  margin: 20px auto;
+  border-radius: 20px;
+}
+
+.color {
+  color: #6c757d !important;
+}
